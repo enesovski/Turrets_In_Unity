@@ -1,6 +1,5 @@
 <h1 align="center">Turret AI System in Unity</h1>
 <p align="center"><i>A customizable and versatile turret AI system in Unity inclıding bullet physics calculator</i></p>
-<div align="center">
   
 ## Aim of Project
 
