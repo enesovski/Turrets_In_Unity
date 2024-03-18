@@ -17,7 +17,8 @@ This project aims to create turret system in Unity. Turret AI provides:
 
 > [!IMPORTANT]
 > Project uses Unity 2022.3.8f1 and Built - in Rendered Pipeline
+
 > [!TIP]
-> You can convert project materials to URP/HDRP in Unity Inspector by Edit/Convert Materials
+> If you have pink material error , you can convert project materials to URP/HDRP in Unity Inspector by Edit/Convert Materials
 
 
